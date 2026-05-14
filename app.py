@@ -5,63 +5,63 @@ app = Flask(__name__)
 usuarios = [
   {
     "id": 1,
-    "name": "Ana Lú",
-    "email": "ana.lucia@gmail.com",
-    "phone": "14 981469782"
+    "name": "Beatriz Rocha",
+    "email": "beatriz.rocha@outlook.com",
+    "phone": "11 982334455"
   },
   {
     "id": 2,
-    "name": "Carlos Henrique",
-    "email": "carlos.henrique@gmail.com",
-    "phone": "14 997845612"
+    "name": "Eduardo Mendes",
+    "email": "edu.mendes@uol.com.br",
+    "phone": "21 977665544"
   },
   {
     "id": 3,
-    "name": "Mariana Souza",
-    "email": "mariana.souza@gmail.com",
-    "phone": "14 996321478"
+    "name": "Fernanda Oliveira",
+    "email": "fernanda.oliveira@gmail.com",
+    "phone": "31 991223344"
   },
   {
     "id": 4,
-    "name": "Felipe Martins",
-    "email": "felipe.martins@gmail.com",
-    "phone": "14 981234567"
+    "name": "Gabriel Santos",
+    "email": "gabriel.santos@hotmail.com",
+    "phone": "19 988776655"
   },
   {
     "id": 5,
-    "name": "Juliana Costa",
-    "email": "juliana.costa@gmail.com",
-    "phone": "14 994567812"
+    "name": "Isabela Vieira",
+    "email": "isabela.v@yahoo.com",
+    "phone": "41 995551122"
   },
   {
     "id": 6,
-    "name": "Rafael Lima",
-    "email": "rafael.lima@gmail.com",
-    "phone": "14 992145678"
+    "name": "Ricardo Nunes",
+    "email": "ricardo.nunes@gmail.com",
+    "phone": "51 984443322"
   },
   {
     "id": 7,
-    "name": "Camila Ferreira",
-    "email": "camila.ferreira@gmail.com",
-    "phone": "14 998741236"
+    "name": "Letícia Duarte",
+    "email": "leticia.duarte@icloud.com",
+    "phone": "61 992228877"
   },
   {
     "id": 8,
-    "name": "Bruno Almeida",
-    "email": "bruno.almeida@gmail.com",
-    "phone": "14 987456321"
+    "name": "Thiago Barbosa",
+    "email": "thiago.b@gmail.com",
+    "phone": "81 981110099"
   },
   {
     "id": 9,
-    "name": "Patrícia Gomes",
-    "email": "patricia.gomes@gmail.com",
-    "phone": "14 991236547"
+    "name": "Vanessa Ribeiro",
+    "email": "vane.ribeiro@outlook.com",
+    "phone": "71 993334455"
   },
   {
     "id": 10,
-    "name": "Lucas Andrade",
-    "email": "lucas.andrade@gmail.com",
-    "phone": "14 995874123"
+    "name": "Marcos Silveira",
+    "email": "marcos.silveira@live.com",
+    "phone": "48 996667788"
   }
 ]
 
